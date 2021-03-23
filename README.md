@@ -4,4 +4,4 @@
 
 ## Motivação
 
-## Referencias
+## Referências

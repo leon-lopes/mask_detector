@@ -1,4 +1,4 @@
-# Metodologia de pesquisa científica
+# Detecção no uso de mascaras na prevenção do covid
 
 ## Problema
 

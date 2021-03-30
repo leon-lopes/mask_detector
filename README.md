@@ -7,7 +7,7 @@ O vírus pode se propagar pela boca ou nariz de uma pessoa infectada em pequenas
 Com a utilização da máscara corretamente por todos essa transmissão reduziria.
 
 ## Proposta de Solução
-A criação de um modelo que consegue identificar quem está usando ou não as máscaras, assim conseguindo fiscalizar e alertar sobre uma pessoa transitando sem máscara.
+A criação de um modelo de deep learning que consegue identificar quem está usando ou não as máscaras, assim conseguindo fiscalizar e alertar sobre uma pessoa transitando sem máscara.
 
 Um modelo que possa se integrar a outros sistemas e assim cirando uma aplicação cada vez maior para ele.  
 

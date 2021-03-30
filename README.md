@@ -11,7 +11,7 @@ Com a utilização da máscara corretamente por todos essa transmissão reduziri
 
 * Um modelo que possa se integrar a outros sistemas e assim cirando uma aplicação cada vez maior para ele.
 
-![Model preview](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.serviceasap.com%2Fblog%2Fitem%2Fresponding-to-covid-19-with-technology-solutions-face-mask-detection&psig=AOvVaw3gmoJqPeO7RjDeGVMKlhvE&ust=1617227927045000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPinr9KB2e8CFQAAAAAdAAAAABAD)
+![Model preview](https://www.serviceasap.com/media/zoo/images/ASAPTX_JUNE_Blog2_TMaskDetection_SanAntonioTX_PHOTO_a2d4f4b42641db1996e0c5868212f9dc.png)
 
 ## Ferramentas
 

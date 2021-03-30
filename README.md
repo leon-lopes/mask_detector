@@ -9,7 +9,9 @@ Com a utilização da máscara corretamente por todos essa transmissão reduziri
 ## Proposta de Solução
 * A criação de um modelo de deep learning que consegue identificar quem está usando ou não as máscaras, com o propósito de auxiliar na fiscalização e alertar sobre uma pessoa transitando sem máscara.
 
-* Um modelo que possa se integrar a outros sistemas e assim cirando uma aplicação cada vez maior para ele.  
+* Um modelo que possa se integrar a outros sistemas e assim cirando uma aplicação cada vez maior para ele.
+
+![Model preview](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.serviceasap.com%2Fblog%2Fitem%2Fresponding-to-covid-19-with-technology-solutions-face-mask-detection&psig=AOvVaw3gmoJqPeO7RjDeGVMKlhvE&ust=1617227927045000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPinr9KB2e8CFQAAAAAdAAAAABAD)
 
 ## Ferramentas
 

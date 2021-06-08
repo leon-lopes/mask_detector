@@ -38,3 +38,4 @@ A biblioteca possui mais de 2.500 algoritmos otimizados, que incluem um conjunto
 A biblioteca é amplamente utilizada em empresas, grupos de pesquisa e por órgãos governamentais.
 
 # 3 - Desenvolvimento
+![Resultado](https://j.gifs.com/k25O96.gif)

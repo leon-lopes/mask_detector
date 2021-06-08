@@ -1,17 +1,16 @@
 # Aplicação para auxiliar a detecção e fiscalização do uso de máscaras na prevenção de transmissão do COVID-19
 
-## Problema
-O uso de máscara se tornou obrigatório durante a pandemia, entretanto não existe e não é possível verificar se todos estão utilizando a máscara que tem como função ajudar a reduzir a propagação do COVID-19.
-O vírus pode se propagar pela boca ou nariz de uma pessoa infectada em pequenas partículas líquidas quando a pessoa tosse, espirra, canta, respira pesadamente ou fala.
+## Introdução
+Sob a pandemia de COVID-19 em andamento (causada pelo coronavírus SARS-CoV-2) a lei 140.19, de 2020, é muito clara, é obrigatório o uso de máscaras de proteção individual para a circulação em espaços públicos e privado acessíveis ao público, em vias públicas e transportes públicos.
+A medida segue as comprovações levantadas pela OMS comprovou para a efetividade da máscara no combate ao contágio do COVID-19.
+Ficou a cargo da Vigilância Sanitária a verificação do uso de máscaras e o respeito as orientações com relação ao distanciamento social nos estabelecimentos comerciais, estão sujeitos a multas pessoas que estiverem sem máscara nos locais exigidos e os estabelecimentos que permitirem a presença de pessoas sem proteção e/ou situação irregular.
 
-Com a utilização da máscara corretamente por todos essa transmissão reduziria.
+## Motivação
+O uso de máscara se tornou obrigatório durante a pandemia, entretanto não existe e não é possível verificar se todos estão utilizando de forma eficiente a máscara.
 
-## Proposta de Solução
-* A criação de um modelo de deep learning que consegue identificar quem está usando ou não as máscaras, com o propósito de auxiliar na fiscalização e alertar sobre uma pessoa transitando sem máscara.
-
-* Um modelo que possa se integrar a outros sistemas e assim cirando uma aplicação cada vez maior para ele.
-
-![Model preview](https://www.serviceasap.com/media/zoo/images/ASAPTX_JUNE_Blog2_TMaskDetection_SanAntonioTX_PHOTO_a2d4f4b42641db1996e0c5868212f9dc.png)
+## Objetivo
+A criação de um modelo de Deep Learning que consegue identificar quem está usando ou não as máscaras, com o propósito de auxiliar na fiscalização e alertar sobre uma pessoa transitando sem máscara.
+Um modelo que possa se integrar a outros sistemas e assim criando uma aplicação cada vez maior para ele.
 
 ## Ferramentas
 

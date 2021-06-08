@@ -36,3 +36,5 @@ OpenCV (Open Source Computer Vision Library) é uma biblioteca de software de vi
 A biblioteca possui mais de 2.500 algoritmos otimizados, que incluem um conjunto abrangente de algoritmos de visão computacional e aprendizado de máquina clássicos e de última geração. Esses algoritmos podem ser usados para detectar e reconhecer rostos, identificar objetos, classificar ações humanas em vídeos, rastrear movimentos de câmera, rastrear objetos em movimento etc.
 
 A biblioteca é amplamente utilizada em empresas, grupos de pesquisa e por órgãos governamentais.
+
+# 3 - Desenvolvimento
